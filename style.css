@@ -1,0 +1,11 @@
+h1{
+    color: orangered;
+}
+
+.buttonstyle{
+    background-color: orangered;
+    border-color: grey;
+    width: 170px;
+    height: 30px;
+    
+}
