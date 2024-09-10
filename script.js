@@ -1,5 +1,5 @@
 function clickMe() {
-    // Looks at the h1 element
+    // Looks at/finds the elemet with id = changeH1Element and stores it in h1Element
     const h1Element = document.getElementById("changeH1Element");
 
     // Checks the current text of h1 inside index.html and does the loop.
