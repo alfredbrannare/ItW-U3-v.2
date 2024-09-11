@@ -4,13 +4,15 @@ h1{
 }
 
 .buttonstyle{
-    background-color: orangered;
-    border-color: grey;
+    background-blend-mode: hue;
+    background: ;
+    border-color: rgb(245, 0, 0);
     width: 170px;
     height: 30px;
     position: absolute; /*Takes the element out of the normal document flow */
     top: 10%; /*10% from top */
     left: 50%; /*50% from left */
     transform: translate(-50%, -50%); /* Moves it around X and Y-axis */
+    border-radius: 20px;
 }
 
