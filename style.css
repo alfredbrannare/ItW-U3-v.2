@@ -1,11 +1,13 @@
-h1{
+*{
     color: orangered;
     text-align: center;
+    background: black;
+
 }
 
 .buttonstyle{
     background-blend-mode: hue;
-    background: ;
+    background: rgb(78, 78, 78);
     border-color: rgb(245, 0, 0);
     width: 170px;
     height: 30px;
